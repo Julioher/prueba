@@ -1,4 +1,4 @@
 ssh-keygen
 
 
-la proxima semana habr� lab..
+la proxima semana habrá lab..escrito será de los contenidos
