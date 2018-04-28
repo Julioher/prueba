@@ -1,0 +1,4 @@
+ssh-keygen
+
+
+la proxima semana habrá lab..
